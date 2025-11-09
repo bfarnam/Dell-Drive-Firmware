@@ -1,0 +1,12 @@
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\F3R
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\files.txt
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\SS805
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\F3R\0002.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\SS805\BD3Q.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\samsung\SS805\CD3Q.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\samsung\PM863a\GC5B.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\samsung\SM863a\GD57.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\samsung\PM863\SAMSUNG_PM863_GA39.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\samsung\SM863\SAMSUNG_SM863_GB55.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\samsung\SM865\SAMSUNG_SM865_GB49.fwh
+

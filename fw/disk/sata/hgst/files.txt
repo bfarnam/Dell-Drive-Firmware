@@ -1,0 +1,16 @@
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\files.txt
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\GEMINI_K
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\Jupiter_K
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\GEMINI_K\GK0SA9N1.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\GEMINI_K\GK0SA9RA.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\hitachi\Jupiter_K\Jk0sa3ha.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\AriesKP\A5DEKN35.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\AriesKP\APDEKP35.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\AriesKP\A5DEKV35.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\Leo-A He12\LEDENT01.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\Libra He10\LHDELT14.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\hgst\Rainier MLK\MU02.FWH
+
+
+
+

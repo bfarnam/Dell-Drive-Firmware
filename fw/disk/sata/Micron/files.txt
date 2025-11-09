@@ -1,0 +1,2 @@
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\Micron\5100\Micron_5100_D0DE001v2.FWH
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\Micron\5100\Micron_5100_D0DE006.FWH

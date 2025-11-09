@@ -1,0 +1,13 @@
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Bach
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\files.txt
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Rigel
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Sirius
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Vega
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Verdi
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Bach\D1BH.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Rigel\D0E1.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Rigel\D1E4.FWH
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Sirius\D1S4.FWH
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Sirius\D1S6.FWH
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Vega\D1VC.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sas\WD\Verdi\D1R5.FWH

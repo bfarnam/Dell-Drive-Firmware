@@ -1,0 +1,4 @@
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\Intel\Downieville - S3520\DL43.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\Intel\Youngsville-S4500_S4600\INTEL_YOUNGSVILLE_DL58.fwh
+
+

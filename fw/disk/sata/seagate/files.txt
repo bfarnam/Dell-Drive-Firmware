@@ -1,0 +1,32 @@
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Airwalker
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Dragonfly
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\files.txt
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Mantaray
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\MOOSE
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Muskie
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\MuskiePlus
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\PUMA
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Airwalker\AA03-250.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Airwalker\AA07.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Airwalker\AA09.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Dragonfly\DA09.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKS250.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKS500.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKS750.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKT_2D.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKT_3D.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\GAL_NL\3BKT_4D.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Mantaray\RA0B.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\MOOSE\MA08.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\MOOSE\MA0D.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Muskie\KA09.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\Muskie\KA0A.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\MuskiePlus\PA09.fwh
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\PUMA\P2_803.BIN
+C:\dell\Drivers\NautilusDOSA47\files\fw\sata\seagate\PUMA\P2_804.BIN
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\seagate\Avenger\Seagate_Avenger_NB33.fwh
+C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\seagate\Nemo\Seagate_Nemo_EA04.fwh
+
+
+
