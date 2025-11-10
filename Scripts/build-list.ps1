@@ -20,8 +20,23 @@ foreach ($file in $files) {
     }
     $models = @()
     $details -split "`n" | ForEach-Object { $models += @($_) }
-    $tempdata += @{fw=$fwver;fwpath=$fwpath;models=$models}
+    $tests = $models[0] -split " "
+    switch ($tests) {
+        'HGST' {$mfg="HGST";Break}
+        'Sandisk' {$mfg="Sandisk";Break}
+        'Seagate' {$mfg="Seagate";Break}
+        'Kioxia' {$mfg="Toshiba";Break}
+        'PM6' {$mfg="Toshiba";Break}
+        'Toshiba' {$mfg="Toshiba";Break}
+        'Western Digital' {$mfg="WD";Break}
+        'WD' {$mfg="WD";Break}
+        'WDC' {$mfg="WD";Break}
+        Default {$mfg=$tests}
+    }
+    $family = $models[0]
+    $tempdata += @{mfg=$mfg;family=$family;fw=$fwver;fwpath=$fwpath;models=$models}
 }
+
 $tests = $tempdata[0].models[0] -split " "
 switch ($tests) {
     'HSGT' {$mfg="HSGT";Break}
