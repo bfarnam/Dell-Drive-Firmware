@@ -22,7 +22,13 @@ foreach ($file in $files) {
     $details -split "`n" | ForEach-Object { $models += @($_) }
     $tests = $models[0] -split " "
     switch ($tests) {
+        'Fujitsu' {$mfg="Fujitsu";Break}
         'HGST' {$mfg="HGST";Break}
+        'Hynix' {$mfg="Hynix";Break}
+        'Intel' {$mfg="Intel";Break}
+        'LiteOn' {$mfg="LiteOn";Break}
+        'Micron' {$mfg="Micron";Break}
+        'Samsung' {$mfg="Samsung";Break}
         'Sandisk' {$mfg="Sandisk";Break}
         'Seagate' {$mfg="Seagate";Break}
         'Kioxia' {$mfg="Toshiba";Break}
@@ -33,7 +39,31 @@ foreach ($file in $files) {
         'WDC' {$mfg="WD";Break}
         Default {$mfg=$tests}
     }
-    $family = $models[0]
+    switch ($tests) {
+        'AL-10LX' {$family="AL-10LX";$mfg="Fujitsu";Break}
+        'AL-10SX' {$family="AL-10SX";$mfg="Fujitsu";Break}
+        'AL11SE' {$family="AL11SE";$mfg="Fujitsu";Break}
+        'AL11SX' {$family="AL11SX";$mfg="Fujitsu";Break}
+        'AL-10SE' {$family="AL-10SE";$mfg="Fujitsu";Break}
+        'PM1633a' {$family="PM1633a";$mfg="Samsung";Break}
+        'PM1635a' {$family="PM1635a";$mfg="Samsung";Break}
+        'PM1643' {$family="PM1643";$mfg="Samsung";Break}
+        'PM1643a' {$family="PM1643a";$mfg="Samsung";Break}
+        'PM1645' {$family="PM1645";$mfg="Samsung";Break}
+        'PM1645a' {$family="PM1645a";$mfg="Samsung";Break}
+        'SM883' {$family="SM883";$mfg="Samsung";Break}
+        'everest' {$family="everest";$mfg="Sandisk";Break}
+        'kilimanjaro' {$family="kilimanjaro";Break}
+        'BCQ' {$family="BCQ";$mfg="WD";Break}
+        'Bach' {$family="Bach";$mfg="WD";Break}
+        'kilimanjaro' {$family="kilimanjaro";Break}
+        'Rigel' {$family="Rigel";$mfg="WD";Break}
+        'Sirius' {$family="Sirius";$mfg="WD";Break}
+        'Vega' {$family="Vega";$mfg="WD";Break}
+        'Vela_AX' {$family="Vela_AX";$mfg="WD";Break}
+        'Verdi' {$family="Verdi";$mfg="WD";Break}
+        Default {$family=$models[0]}
+    }
     $tempdata += @{mfg=$mfg;family=$family;fw=$fwver;fwpath=$fwpath;models=$models}
 }
 
