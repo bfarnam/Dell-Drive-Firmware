@@ -1,5 +1,0 @@
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sas\Samsung\PM1643\DSF4.fwh
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sas\Samsung\PM1645\DWF4.fwh
-
-
-

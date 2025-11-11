@@ -1,9 +1,0 @@
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\hk4\FF25DAC9.fwh
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\hk4\FF25DAB9.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\MG06\TOS_MG06_GA04.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\MG07\TOS_MG07_GB01.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\Galaxy\TOS_MG05_GX5D.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\Tomcat R\TOS_MG04A_FJ3D.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\Tomcat R\TOS_MG04A_FK3D.FWH
-C:\Nautilus_builds\Nautilus SAS-SATA EFI A20\Nautilus_efi_A20\FILES\fw\disk\sata\toshiba\Tomcat R\TOS_MG04A_FS7D.FWH
-
