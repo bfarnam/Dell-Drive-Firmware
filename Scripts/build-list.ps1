@@ -1,26 +1,62 @@
-$path = 'C:\DELL Drive Firmware\downloads\SAS\' # Path to downloaded dell firmware updates
+$path = 'C:\Users\Public\Downloads' # Path to downloaded dell firmware updates
+# build list of EXE and Expand them into folders
 $files = Get-ChildItem -Path $path -File -Filter *.EXE
-$details = @()
-foreach ($file in $files) { $details += (Get-Item $file).VersionInfo }
-
+# $details = @()
+# foreach ($file in $files) { $details += (Get-Item $file).VersionInfo }
 foreach ($file in $files) { 
     New-Item -ItemType Directory -Path $file.FullName.Replace(".EXE","")
     Expand-Archive -Path $file.FullName -DestinationPath $file.FullName.Replace("EXE","")
 }
 
+# Now move them into SAS and SATA Dirs
+$files = Get-ChildItem -Path $path -Directory -Filter SAS*
+$files | ForEach-Object { 
+    $newname = ($_.name.Split('_'))[4]
+    move-item $_.FullName -Destination $path\SAS\$newname
+}
+$files = Get-ChildItem -Path $path -Directory -Filter *SATA*
+$files | ForEach-Object { 
+    $newname = ($_.name.Split('_'))[4]
+    move-item $_.FullName -Destination $path\SATA\$newname
+}
+# Now remove all the extra leaving just the definition and FW files
+$filter = ("*.cat","*.ini","*.exe","*.dll","*.sys","*.zip","*.xml.sign","*.bat","*.txt","*.inf","spconfig.xml","PIEConfig.xml")
+$files = Get-ChildItem -Path $path -File -include $filter -Recurse
+$files | ForEach-Object { Remove-Item $_.fullname -ErrorAction SilentlyContinue }
+
+# Now start the sort
+<#
+The firmware version is always listed here
+$data.SoftwareComponent.VendorVersion
+
+The model number is usually listed here but may be grouped
+$data.SoftwareComponent.name.Display.'#cdata-section'
+
+For newer firmware packages, the model number is listed here
+$data.SoftwareComponent.SupportedDevices.Device.Display.'#cdata-section'
+
+#>
+$path = 'E:\DEVL\GitHub\Dell-Drive-Firmware\downloads\SAS'
 $files = Get-ChildItem -Path $path -File -Recurse -Filter package.xml
 $tempdata = @()
 foreach ($file in $files) {
     [xml]$data = Get-Content -Path $file.fullname
     $fwver = $data.SoftwareComponent.VendorVersion
-    $fwpath = (split-path $file.fullname -parent)+"\payload"
-    $details = @()
+    $filedescription = $data.SoftwareComponent.name.Display.'#cdata-section'
+    $devices = @()
     foreach ($item in $data.SoftwareComponent.SupportedDevices) { 
-        $details += @($item.Device.Display.'#cdata-section')
+        $devices += @($item.Device.Display.'#cdata-section')
     }
     $models = @()
-    $details -split "`n" | ForEach-Object { $models += @($_) }
-    $tests = $models[0] -split " "
+    foreach ($item in $devices) {
+        try {
+            $models += ($item -split "`n")[1].Replace(" ","").Split(":")[1]
+        }
+        catch {
+            $models += $item
+        }
+    }
+    $tests = $devices[0] -split " "
     switch ($tests) {
         'Fujitsu' {$mfg="Fujitsu";Break}
         'HGST' {$mfg="HGST";Break}
@@ -62,10 +98,27 @@ foreach ($file in $files) {
         'Vega' {$family="Vega";$mfg="WD";Break}
         'Vela_AX' {$family="Vela_AX";$mfg="WD";Break}
         'Verdi' {$family="Verdi";$mfg="WD";Break}
-        Default {$family=$models[0]}
+        Default {$family=''}
     }
     $tempdata += @{mfg=$mfg;family=$family;fw=$fwver;fwpath=$fwpath;models=$models}
 }
+
+$expanded = @()
+$expanded += "mfg,family,fw,model,fwpath"
+$tempdata | ForEach-Object {
+    $mfg = $_.mfg
+    $family = $_.family
+    $fwver = $_.fw
+    $fwpath = $_.fwpath
+    $models = $_.models
+    foreach ($model in $models) {
+        $expanded += "$mfg,$family,$fwver,$model,$fwpath"
+    }
+}
+"Start" > .\data.txt
+$expanded | ForEach-Object {$_ >> .\data.txt}
+
+& 'C:\Program Files\Notepad++\Notepad++.exe' $path\data.txt
 
 $tests = $tempdata[0].models[0] -split " "
 switch ($tests) {

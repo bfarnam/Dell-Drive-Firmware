@@ -1,0 +1,491 @@
+int,mfg,family,ver,fw
+SAS,Fujitsu,AL10LX,,D305
+SAS,Fujitsu,AL10LX,,D306
+SAS,Fujitsu,AL10SE,,D406
+SAS,Fujitsu,AL10SE,,D407
+SAS,Fujitsu,AL10SX,,D505
+SAS,Fujitsu,AL10SX,,D506
+SAS,Fujitsu,AL11SE,,D809
+SAS,Fujitsu,AL11SE,,D80A
+SAS,Fujitsu,AL11SX,,D905
+SAS,Fujitsu,AL11SX,,D906
+SAS,HGST,Aries HC8,,GK23
+SAS,HGST,Aries KP,,KJ43
+SAS,HGST,Aries KP,,KU27
+SAS,HGST,Aries KP,,KU43
+SAS,HGST,Aries KP MLK,,APDAKK34
+SAS,HGST,Aries KP MLK,,KK43
+SAS,HGST,Bear Cove,,BCDLP172
+SAS,HGST,Bear Cove,,J158
+SAS,HGST,Bear Cove Plus,,BPDLK909
+SAS,HGST,Bear Cove Plus,,K953
+SAS,HGST,Bear Cove Plus,,K95D
+SAS,HGST,Cobra d,,A440
+SAS,HGST,Cobra E,,N440
+SAS,HGST,cobra EP,,CPDLU850
+SAS,HGST,cobra EP,,U5E2
+SAS,HGST,Cobra F,,C4DAFK38
+SAS,HGST,Cobra F,,CFDAFJ34
+SAS,HGST,Cobra F,,CFDAFJ38
+SAS,HGST,Cobra F,,CFDAFU38
+SAS,HGST,Cobra B,,A300
+SAS,HGST,Cobra B,,C4C2
+SAS,HGST,Cobra B,,C590
+SAS,HGST,Cobra C,,J350
+SAS,HGST,Cobra C,,J516
+SAS,HGST,Gemini K,,GK0SAJ0A
+SAS,HGST,King Cobra,,K774
+SAS,HGST,King Cobra C,,K774
+SAS,HGST,King Cobra F,,EJ06
+SAS,HGST,King Cobra F,,EJ24
+SAS,HGST,King Cobra F,,EK23
+SAS,HGST,King Cobra F,,K4DAEK38
+SAS,HGST,King Cobra F,,KFDAEJ38
+SAS,HGST,King Cobra F,,KFDAEU38
+SAS,HGST,Leo-A He12,,LEDANS01
+SAS,HGST,Leo-A He12,,NM02
+SAS,HGST,Leo-A He12,,NM05
+SAS,HGST,Leo-A He12,,NM07
+SAS,HGST,Leo-A He12,,NS05
+SAS,HGST,Leo-A He12,,NS06
+SAS,HGST,Leo-A He12,,NS07
+SAS,HGST,Leo-B,,SS03
+SAS,HGST,Leo-B,,SS04
+SAS,HGST,Leo-B,,SS05
+SAS,HGST,Libra He10,,LHDALS14
+SAS,HGST,Libra He10,,LS03
+SAS,HGST,Libra He10,,LS15
+SAS,HGST,Libra He10,,LS17
+SAS,HGST,Libra He10,,LS18
+SAS,HGST,Libra He10,,LS19
+SAS,HGST,Mars K,,M440
+SAS,HGST,Mars KP,,W2F0
+SAS,HGST,Sunset Cove,,H1D6
+SAS,HGST,Sunset Cove,,SPDLL384
+SAS,HGST,Sunset Cove Plus MU FIPS,,SPDLK326
+SAS,HGST,Vela A,,PS03
+SAS,HGST,Vela A,,PS04
+SAS,HGST,Vela A,,PS05
+SAS,HGST,Vela A,,PU03
+SAS,HGST,Vela A,,PU04
+SAS,HGST,Vela A,,PU05
+SAS,HGST,Vela A,,VLDAPU01
+SAS,HGST,Vela AP,,RS03
+SAS,HGST,Vela AP,,RS04
+SAS,HGST,Vela AP,,RS05
+SAS,HGST,Viper C,,E820
+SAS,HGST,Viper B,,A280
+SAS,HGST,Viper B,,A4C2
+SAS,HGST,Viper B,,A598
+SAS,HGST,Viper BP,300GB,B522
+SAS,HGST,Viper BP,300GB,B590
+SAS,HGST,Viper BP,300GB,B598
+SAS,HGST,Viper BP,400GB,D522
+SAS,HGST,Viper BP,400GB,D590
+SAS,HGST,Viper BP,400GB,D598
+SAS,Samsung,PM1633a,,DSL8
+SAS,Samsung,PM1633a,,DSLA
+SAS,Samsung,PM1635a,,DWLA
+SAS,Samsung,PM1643,,DSF4
+SAS,Samsung,PM1643,,DSF8
+SAS,Samsung,PM1643a,,DSA3
+SAS,Samsung,PM1645,,DWF4
+SAS,Samsung,PM1645,,DWF8
+SAS,Samsung,PM1645a,,DWA3
+SAS,Samsung,SM883,,HF57
+SAS,Sandisk,Everest,,D339
+SAS,Sandisk,Kilimanjaro,,D416
+SAS,Sandisk,Kilimanjaro,,D417
+SAS,Seagate,15K5,,S517
+SAS,Seagate,15K5,,S519
+SAS,Seagate,15K5,,S51A
+SAS,Seagate,15K5,,S527
+SAS,Seagate,15K5,,S52C
+SAS,Seagate,15K6,,HS0A
+SAS,Seagate,15K6,,HS0F
+SAS,Seagate,15K6,,HS11
+SAS,Seagate,Airwalker,,AS0B
+SAS,Seagate,Airwalker,,ASFE
+SAS,Seagate,Avenger,,NS02
+SAS,Seagate,Avenger,,NS29
+SAS,Seagate,Avenger,,NSF2
+SAS,Seagate,Avenger,,SEAGATE_AVENGER_NT72
+SAS,Seagate,Cimarron,,CSD3
+SAS,Seagate,Cimarron,,CSD7
+SAS,Seagate,Cimarron,,CSF7
+SAS,Seagate,Cimarron,,CSF9
+SAS,Seagate,Cimarron,,CSJ3
+SAS,Seagate,Cimarron,,CSJ7
+SAS,Seagate,Cimarron,,CSL7
+SAS,Seagate,Cimarron,,CSL9
+SAS,Seagate,Cimarron,,CSN9
+SAS,Seagate,Compass,,CS09
+SAS,Seagate,Compass,,CSFB
+SAS,Seagate,Dragonfly,,DS65
+SAS,Seagate,Dragonfly,,DS66
+SAS,Seagate,Eagle,,EH04
+SAS,Seagate,Eagle,,ES68
+SAS,Seagate,Eagle,,ESF7
+SAS,Seagate,Eagle RP,,ER65
+SAS,Seagate,Eagle RP,,ER66
+SAS,Seagate,Evans,,ESL3
+SAS,Seagate,Firebird,,S22C
+SAS,Seagate,Firebird,,S22F
+SAS,Seagate,Firefly,,FS65
+SAS,Seagate,Firefly,,FS66
+SAS,Seagate,Firestorm,,FM0C
+SAS,Seagate,Firestorm,,FMF5
+SAS,Seagate,Hornet,,HT04
+SAS,Seagate,Hornet,,HT66
+SAS,Seagate,Hornet,146GB,HT65
+SAS,Seagate,Hornet,73GB,HT65
+SAS,Seagate,Ironman,,IS06
+SAS,Seagate,Ironman,,ISF5
+SAS,Seagate,Kestrel,,KSC9
+SAS,Seagate,Kestrel,,KT3A
+SAS,Seagate,Kestrel,,KT5A
+SAS,Seagate,Kestrel,,KT79
+SAS,Seagate,Kestrel,,SEAGATAE_KESTREL_KSC8X313
+SAS,Seagate,Kestrel,,SEAGATAE_KESTREL_KT39X313
+SAS,Seagate,Kestrel,,SEAGATAE_KESTREL_KT57X313
+SAS,Seagate,Kestrel,,SEAGATAE_KESTREL_KT76X313
+SAS,Seagate,Kestrel,,SEAGATE_KESTREL_KT37
+SAS,Seagate,Kestrel,,SEAGATE_KESTREL_KT55
+SAS,Seagate,Lange,,EC0D
+SAS,Seagate,Lange,,EC11
+SAS,Seagate,Lange BP,,4D06
+SAS,Seagate,Lightning,,LS0B
+SAS,Seagate,Lightning,,LSF7
+SAS,Seagate,Makara,,MS06
+SAS,Seagate,Makara,,MS2E
+SAS,Seagate,Makara BP,,DA06
+SAS,Seagate,Makara BP,,DA25
+SAS,Seagate,Makara BP,,DS04
+SAS,Seagate,Makara BP,,DS23
+SAS,Seagate,Makara BP,,DS43
+SAS,Seagate,Makara BP,,DS44
+SAS,Seagate,Makara BP,,DSF2
+SAS,Seagate,Makara BP,,DSF3
+SAS,Seagate,Makara BP,,DT32
+SAS,Seagate,Makara BP,,DT34
+SAS,Seagate,Makara MLK,,MS85
+SAS,Seagate,Makara Plus,,PA28
+SAS,Seagate,Makara Plus,,PS26
+SAS,Seagate,Makara Plus,,PSE4
+SAS,Seagate,Makara Plus,,PSE6
+SAS,Seagate,Makara Plus,,PSE7
+SAS,Seagate,Makara Plus,,PT52
+SAS,Seagate,Makara Plus,,PT54
+SAS,Seagate,Makara Plus,,PT73
+SAS,Seagate,Makara Plus,,PT74
+SAS,Seagate,Mantaray,,RS17
+SAS,Seagate,Mantaray,,RSFF
+SAS,Seagate,Maverick,,SM0B
+SAS,Seagate,Megalodon,,SEAGATE_MEGALODON_GS15
+SAS,Seagate,Megalodon,,SEAGATE_MEGALODON_GSFB
+SAS,Seagate,Mobula BP,,RAL3
+SAS,Seagate,Mobula BP,,RSL1
+SAS,Seagate,Mobula BP,,RSL3
+SAS,Seagate,Mobula BP,,RSN3
+SAS,Seagate,Mobula BP,,SEAGATE_MOBULABP_RSN1
+SAS,Seagate,Moose,,MS041000
+SAS,Seagate,Moose,,MS04500
+SAS,Seagate,Moose,,MS04750
+SAS,Seagate,Moose,,MS05
+SAS,Seagate,Moose,,MS0A
+SAS,Seagate,Moose,,MS0C
+SAS,Seagate,Muskie,,KS6B
+SAS,Seagate,Muskie,,KSF4
+SAS,Seagate,Muskie,1TB,KS68
+SAS,Seagate,Muskie,1TB,KS69
+SAS,Seagate,Muskie,2TB,KS68
+SAS,Seagate,Muskie,2TB,KS69
+SAS,Seagate,Muskie Plus,,PS0B
+SAS,Seagate,Muskie Plus,,PSF5
+SAS,Seagate,NS_10K,,NS25
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_SS81
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_SSC3
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_SSE1
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_SSE3
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_ST33
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_ST53
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_ST71
+SAS,Seagate,Skybolt,,SEAGATE_SKYBOLT_ST72
+SAS,Seagate,Skybolt,,SSC4
+SAS,Seagate,Skybolt,,SSE6
+SAS,Seagate,Skybolt,,SSE8
+SAS,Seagate,Skybolt,,ST34
+SAS,Seagate,Skybolt,,ST56
+SAS,Seagate,Skybolt,,ST58
+SAS,Seagate,Skybolt,,ST75
+SAS,Seagate,Skybolt,,ST76
+SAS,Seagate,T10,,T214
+SAS,Seagate,T10,,T215
+SAS,Seagate,Tatsu,,SEAGATE_TATSU_TT54
+SAS,Seagate,Tatsu,,SEAGATE_TATSU_TT55
+SAS,Seagate,Tatsu,,TT56
+SAS,Seagate,Thunderbolt,,TS04
+SAS,Seagate,Thunderbolt,,TSC6
+SAS,Seagate,Thunderbolt,,TSC9
+SAS,Seagate,Thunderbolt,,UT71
+SAS,Seagate,Thunderbolt 2,,2S24
+SAS,Seagate,Thunderbolt 2,,2T51
+SAS,Seagate,Thunderburg,,BS05
+SAS,Seagate,Thunderburg,,SEAGATE_THUNDERBUG_BS04
+SAS,Seagate,TNS,,NS2A
+SAS,Seagate,Valkyrie,,VS0AX304
+SAS,Seagate,Valkyrie,,VSC6X304
+SAS,Seagate,Valkyrie,,VT32X304
+SAS,Seagate,Valkyrie BP,,VS0B
+SAS,Seagate,Valkyrie BP,,VT33
+SAS,Seagate,Yellowjacket,,YS0D
+SAS,Seagate,Yellowjacket,,YSFC
+SAS,Toshiba,AL12SE,,DA07
+SAS,Toshiba,AL12SE,,DA0B
+SAS,Toshiba,AL12SX,,DB08
+SAS,Toshiba,AL13SE,,DE11
+SAS,Toshiba,AL13SX,,13SXDF0B
+SAS,Toshiba,AL13SX MLK,4kn,13SMDL02
+SAS,Toshiba,AL13SX MLK,512n,13SMDK05
+SAS,Toshiba,AL13SX MLK,512n,TOS_AL13SX-MLK_EC02
+SAS,Toshiba,AL14SE,,14SEDN03
+SAS,Toshiba,AL14SE,,14SEEB02
+SAS,Toshiba,AL14SE,,DH02
+SAS,Toshiba,AL14SE,,EB04
+SAS,Toshiba,AL14SE Lite,,DM05
+SAS,Toshiba,AL14SE Lite,,DM07
+SAS,Toshiba,AL14SE Lite,,DN04
+SAS,Toshiba,AL14SE Lite,,EA02
+SAS,Toshiba,AL14SE Lite,,EA04
+SAS,Toshiba,AL14SE Lite,,EA05
+SAS,Toshiba,AL14SX,,DU01
+SAS,Toshiba,AL14SX,,EE05
+SAS,Toshiba,AL14SX,,EE06
+SAS,Toshiba,AL14SX,,EE07
+SAS,Toshiba,AL14SX Lite,,DM05
+SAS,Toshiba,AL15SE,,EF03
+SAS,Toshiba,AL15SE,,EF04
+SAS,Toshiba,AL15SE,,EF05
+SAS,Toshiba,AL15SE,,EF06
+SAS,Toshiba,Harrier 2,,DG09
+SAS,Toshiba,MG06,,EH07
+SAS,Toshiba,MG06,,EH08
+SAS,Toshiba,MG06,,EH0A
+SAS,Toshiba,MG06,,EH0B
+SAS,Toshiba,MG06,,TOS_MG06-SAS_EH06
+SAS,Toshiba,MG07,,EI05
+SAS,Toshiba,MG07,,EI06
+SAS,Toshiba,MG07,,EI07
+SAS,Toshiba,MG07,,EI08
+SAS,Toshiba,MG07,,EI09
+SAS,Toshiba,MG07,,TOS_MG07_SAS_EI03
+SAS,Toshiba,MG08AC,,EJ02
+SAS,Toshiba,MG08SC,,EJ06
+SAS,Toshiba,MG08SD,,EK02
+SAS,Toshiba,MG08SD,,EK03
+SAS,Toshiba,Mustang,,DCAD
+SAS,Toshiba,Phoenix,,A008
+SAS,Toshiba,Phoenix M2 MU,,PM2MA3B3
+SAS,Toshiba,Phoenix M2 Plus,,PM2SA4B3
+SAS,Toshiba,Phoenix M2R RI,,PM2RA5B3
+SAS,Toshiba,Phoenix M3,,PM3CAM07
+SAS,Toshiba,Phoenix M4,,AS0C
+SAS,Toshiba,Phoenix M4,,AX07
+SAS,Toshiba,Phoenix M4,,AX0B
+SAS,Toshiba,Phoenix M4,,TOS_PM4_AS0B
+SAS,Toshiba,Phoenix M4,,TOS_PM4_ISE_AS0E
+SAS,Toshiba,Phoenix M5,,B01C
+SAS,Toshiba,Phoenix M5,,B020
+SAS,Toshiba,Phoenix M5,,B022
+SAS,Toshiba,Phoenix M5,,B11E
+SAS,Toshiba,Phoenix M5,,B318
+SAS,Toshiba,Phoenix M5,,B31E
+SAS,Toshiba,Phoenix M5,,TMA_PM5_SC_FIPS_B412
+SAS,Toshiba,Phoenix M5,,TOS_PM5-FIPS_B316
+SAS,Toshiba,Phoenix M5,,TOS_PM5-ISE_B018
+SAS,Toshiba,Phoenix M5,,TOS_PM5-ISE_B01A
+SAS,Toshiba,RM5,,B707
+SAS,Toshiba,RM5,,B709
+SAS,Toshiba,Tomcat R,,DQ07
+SAS,Toshiba,Tomcat R,,DR06
+SAS,Toshiba,Tomcat R,,DS07
+SAS,Toshiba,Tomcat R,,TCRSEG03
+SAS,WD,Bach,,D1BH
+SAS,WD,BCQ,,G101
+SAS,WD,Kilimanjaro,,D417
+SAS,WD,Rigel,,D0E1
+SAS,WD,Rigel,,D1E4
+SAS,WD,Sirius,,D1S4
+SAS,WD,Sirius,,D1S6
+SAS,WD,Vega,,D1VD
+SAS,WD,Vela AX,,TS01
+SAS,WD,Vela AX,,TS03
+SAS,WD,Verdi,,D1R7
+SATA,HGST,Aries HC8,,GP23
+SATA,HGST,Aries KP,,A5DEKN33
+SATA,HGST,Aries KP,,A5DEKN35
+SATA,HGST,Aries KP,,A5DEKV35
+SATA,HGST,Aries KP,,APDEKP33
+SATA,HGST,Aries KP,,APDEKP35
+SATA,HGST,Aries KP,,KN43
+SATA,HGST,Aries KP,,KP43
+SATA,HGST,Aries KP,,KV43
+SATA,HGST,Jupiter K,,JK0SA3HA
+SATA,HGST,Leo-A He12,,LEDENT01
+SATA,HGST,Leo-A He12,,NT05
+SATA,HGST,Leo-A He12,,NT07
+SATA,HGST,Leo-B,,ST03
+SATA,HGST,Leo-B,,ST04
+SATA,HGST,Leo-B,,ST05
+SATA,HGST,Libra He10,,LHDELT06
+SATA,HGST,Libra He10,,LHDELT14
+SATA,HGST,Libra He10,,LT15
+SATA,HGST,Libra He10,,LT17
+SATA,HGST,Libra He10,,LT18
+SATA,HGST,Libra He10,,LT19
+SATA,HGST,Mars K,,AB50
+SATA,HGST,Rainier MLK,,MU02
+SATA,HGST,Vela A,,PT03
+SATA,HGST,Vela A,,PT04
+SATA,HGST,Vela A,,PT05
+SATA,HGST,Vela A,,PV03
+SATA,HGST,Vela A,,PV04
+SATA,HGST,Vela A,,PV05
+SATA,HGST,Vela AP,,RT03
+SATA,HGST,Vela AP,,RT04
+SATA,HGST,Vela AP,,RT05
+SATA,HGST,Vela AX,,TT02
+SATA,HGST,Vela AX,,TT03
+SATA,Hynix,,,DD01
+SATA,Hynix,,,DE03
+SATA,Intel,,,D201DL13_SIGNED
+SATA,Intel,,,DL05
+SATA,Intel,,,DL06
+SATA,Intel,3500,,D201DL16_SIGNEDFWH1
+SATA,Intel,3510_3610_3710,,DL2E
+SATA,Intel,3510_3610_3710,,G201DL2D_SIGNEDFWH1
+SATA,Intel,3510_3610_3710,,G201DL2D_SIGNEDFWH2
+SATA,Intel,3510_3610_3710,,G201DL2D_SIGNEDFWH3
+SATA,Intel,3510_3610_3710,,G201DL2D_SIGNEDFWH4
+SATA,Intel,Downieville - S3520,,DL43
+SATA,Intel,Downieville - S3520,,N201DL42_SIGNED
+SATA,Intel,Youngsville - S4500_S4600,,DL58
+SATA,Intel,Youngsville - S4500_S4600,,DL5A
+SATA,Intel,Youngsville - S4500_S4600,,DL5C
+SATA,Intel,Youngsville - S4510_S4610,,DL62
+SATA,Intel,Youngsville - S4510_S4610,,DL63
+SATA,Intel,Youngsville - S4510_S4610,,DL67
+SATA,Intel,Youngsville - S4510_S4610,,DL69
+SATA,Intel,Youngsville - S4510_S4610,,DL6N
+SATA,Intel,Youngsville - S4510_S4610,,DL6P
+SATA,Intel,Youngsville - S4510_S4610,,DL6R
+SATA,Liteon,,,110U_N
+SATA,Liteon,,,11RU_N
+SATA,Liteon,,,11XU_N
+SATA,Micron,5100,,MICRON_5100_D0DE001V2
+SATA,Micron,5100,,MICRON_5100_D0DE006
+SATA,Micron,5100 Pro,,E008
+SATA,Micron,5100 Pro,,E012
+SATA,Micron,5200 MU_RI,,F000
+SATA,Micron,5200 MU_RI,,F003
+SATA,Micron,5300_ISE,,J004
+SATA,Micron,5300_ISE,,J404
+SATA,Micron,5300_SED,,J006
+SATA,Micron,5300_SED,,J007
+SATA,Micron,5300_SED,,J406
+SATA,Micron,5300_SED,,J407
+SATA,Micron,5300_SED,,J806
+SATA,Micron,5300_SED,,J807
+SATA,Samsung,F3R,,0002
+SATA,Samsung,PM863,,GA38
+SATA,Samsung,PM863,,GA3A
+SATA,Samsung,PM863,,GB48
+SATA,Samsung,PM863,,GB54
+SATA,Samsung,PM863,,SAMSUNG_PM863_GA39
+SATA,Samsung,PM863a,,GC5B
+SATA,Samsung,PM883,,HE57
+SATA,Samsung,PM883,,HE58
+SATA,Samsung,PM883a,,HG56
+SATA,Samsung,PM883a,,HG57
+SATA,Samsung,SM825,,AXM18D3Q
+SATA,Samsung,SM843T,,8D2Q
+SATA,Samsung,SM843T,,DD2Q
+SATA,Samsung,SM863,,SAMSUNG_SM863_GB55
+SATA,Samsung,SM863a,,GD57
+SATA,Samsung,SM865,,SAMSUNG_SM865_GB49
+SATA,Samsung,SM883 MU_RI,,HF56
+SATA,Samsung,SM883 MU_RI,,HF57
+SATA,Samsung,SS805,,BD3Q
+SATA,Samsung,SS805,,CD3Q
+SATA,Sandisk,Everest,,D326
+SATA,Seagate,Airwalker,,AA0E
+SATA,Seagate,Airwalker,,AA63
+SATA,Seagate,Avenger,,NA03
+SATA,Seagate,Avenger,,NA26
+SATA,Seagate,Avenger,,SEAGATE_AVENGER_NA07
+SATA,Seagate,Avenger,,SEAGATE_AVENGER_NB33
+SATA,Seagate,Cimarron,,CAJ8
+SATA,Seagate,Cimarron,,CAJC
+SATA,Seagate,Cimarron,,CALB
+SATA,Seagate,Cimarron,,CALD
+SATA,Seagate,Dragonfly,,DA09
+SATA,Seagate,Evans,,EAL3
+SATA,Seagate,Evans,,EAL6
+SATA,Seagate,Lightning,,LS0A
+SATA,Seagate,Makara,,MA32
+SATA,Seagate,Makara BP,,SEAGATE_MAKARABP_DB34
+SATA,Seagate,Makara MLK,,MA8F
+SATA,Seagate,Makara Plus,,PA27
+SATA,Seagate,Mantaray,,RA0B
+SATA,Seagate,Megalodon,,GA10
+SATA,Seagate,Megalodon,,GA6E
+SATA,Seagate,Mobula BP,,RAL2
+SATA,Seagate,Mobula BP,,RAL3
+SATA,Seagate,Moose,,MA08
+SATA,Seagate,Moose,,MA0D
+SATA,Seagate,Muskie,,KA09
+SATA,Seagate,Muskie,,KA0A
+SATA,Seagate,Muskie Plus,,PA09
+SATA,Seagate,Nemo,,SEAGATE_NEMO_EA04
+SATA,Toshiba,Galaxy,,GALXGX4D
+SATA,Toshiba,Galaxy,,TOS_MG05_GX5D
+SATA,Toshiba,Galaxy,,TOS_MG05_GX6D
+SATA,Toshiba,HK4,,FF18DAC9
+SATA,Toshiba,HK4,,FF25DAB9
+SATA,Toshiba,HK4,,FF25DAC9
+SATA,Toshiba,HK6,,DBB1
+SATA,Toshiba,HK6,,DBB2
+SATA,Toshiba,HK6,,DBC2
+SATA,Toshiba,HK6,,DBC3
+SATA,Toshiba,HK6,,DBC4
+SATA,Toshiba,MG06,,GA06
+SATA,Toshiba,MG06,,GA07
+SATA,Toshiba,MG06,,GA08
+SATA,Toshiba,MG06,,TOS_MG06_GA04
+SATA,Toshiba,MG06,,TOS_MG06-SATA_GA05
+SATA,Toshiba,MG07,,GB03
+SATA,Toshiba,MG07,,TOS_MG07_GB01
+SATA,Toshiba,MG08AC,,GC01
+SATA,Toshiba,MG08SD,,GD03
+SATA,Toshiba,Tomcat R,,FJ2D
+SATA,Toshiba,Tomcat R,,FK5D
+SATA,Toshiba,Tomcat R,,TOS_MG04A_FJ3D
+SATA,Toshiba,Tomcat R,,TOS_MG04A_FK3D
+SATA,Toshiba,Tomcat R,,TOS_MG04A_FS7D
+SATA,WD,Hulk,,1B02
+SATA,WD,Kojin,,D1K5
+SATA,WD,Kojin,,D3K7
+SATA,WD,Kojin,,KOJIN D1K6
+SATA,WD,Mantis,,1D07
+SATA,WD,Mars,,0C10
+SATA,WD,Mars,,0C12
+SATA,WD,Rainier,,D3N4
+SATA,WD,Sparta,,5G08
+SATA,WD,Summit,,1S05
+SATA,WD,Vulcan,,1V05
+SATA,WD,XL320RE,160,160_3B04
+SATA,WD,XL320RE,160,160_3B05
+SATA,WD,XL320RE,250,250_3B04
+SATA,WD,XL320RE,250,250_3B05
+SATA,WD,XL320RE,500,500_3B04
+SATA,WD,XL320RE,500,500_3B05
